@@ -1,0 +1,8 @@
+{
+  "name": "Black Barbecue Oficial",
+  "description": "A premium virtual menu for a BBQ smokehouse with AI-powered food pairing recommendations.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": []
+}
